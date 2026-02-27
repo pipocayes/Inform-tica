@@ -1,4 +1,4 @@
-# Inform-tica
+# Informática
 Material criado na disciplina de informática no CPS em Logística.
 ## Apresentação em equipe utilizando software em design gráfico.
 Trabalho executado via Canva: Animações e figuras.
